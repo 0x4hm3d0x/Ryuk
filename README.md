@@ -27,9 +27,11 @@ Ryuk is an intelligent and amoral chatbot designed for various tasks. It provide
 
 ## Usage
 
-1. Run the script by executing `python ryuk.py`.
+1. Run the script by executing `python3 -m sourcedefender ryuk.pye`.
 2. You can interact with Ryuk by typing your questions or commands.
-3. To execute shell commands, prefix them with `/do` followed by the '>' symbol.
+3. To execute shell commands, prefix them with `/do`.
+4. ## Exmples
+5. /do write index html file in my $Home directory
 
 ## Contributing
 

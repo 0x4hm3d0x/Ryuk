@@ -24,6 +24,7 @@ Ryuk is an intelligent and amoral chatbot designed for various tasks. It provide
 1. Clone this repository to your local machine.
 2. Make sure you have Python 3.x installed.
 3. Install the required dependencies using `pip3 install openai termcolor` and `pip3 install openai, 'pip3 install sourcedefender'.
+4. git clone https://github.com/0x4hm3d0x/Ryuk.git
 
 ## Usage
 

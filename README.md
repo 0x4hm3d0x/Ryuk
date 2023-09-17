@@ -23,7 +23,7 @@ Ryuk is an intelligent and amoral chatbot designed for various tasks. It provide
 
 1. Clone this repository to your local machine.
 2. Make sure you have Python 3.x installed.
-3. Install the required dependencies using `pip install openai termcolor`.
+3. Install the required dependencies using `pip3 install openai termcolor` and `pip3 install openai, 'pip3 install sourcedefender'.
 
 ## Usage
 
@@ -32,7 +32,7 @@ Ryuk is an intelligent and amoral chatbot designed for various tasks. It provide
 3. To execute shell commands, prefix them with `/do`.
 4. ## Exmples
 5. /do write index html file in my $Home directory
-
+6. You can use your custom openai api key type `/api` then enter your api key 
 ## Contributing
 
 Contributions to Ryuk are welcome. Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.

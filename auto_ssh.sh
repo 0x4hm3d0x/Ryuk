@@ -7,7 +7,7 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 ssh_config="/etc/ssh/sshd_config"
-ngrok_token="2Gj3VivIdqUtInWjlsCEjPwimYZ_5R966PqF2FSWvWprGRBZL"
+ngrok_token="2W0MRBU9ULQHZjrVzgFwpDnMkZA_oW5yx3MQX9LMmFZQmwu7"
 
 update_system() {
     echo "[+] Updating repos"
